@@ -1,10 +1,7 @@
-python-3.12.0
-
 blinker==1.7.0
 certifi==2024.2.2
 charset-normalizer==3.3.2
 click==8.1.7
-scikit-learn==1.2.2
 dash==2.16.1
 dash-bootstrap-components==1.6.0
 dash-core-components==2.0.0
