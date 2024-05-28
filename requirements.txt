@@ -1,5 +1,5 @@
 python-3.12.0
-﻿asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1698341106958/work
+
 blinker==1.7.0
 certifi==2024.2.2
 charset-normalizer==3.3.2
